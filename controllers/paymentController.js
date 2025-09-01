@@ -198,7 +198,7 @@ export const generateReceipt = async (req, res) => {
     
     <center>
       <div class="flex flex-col items-center">
-        <img src="LOGO-TOUP_TI.ico" alt="LOGO-TOUP_TI" class="w-16 h-16">
+        <img src="https://i.ibb.co/QFNM5Bgz/LOGO-TOUP-TI-page-0001.jpg" alt="LOGO-TOUP_TI" class="w-16 h-16">
         <div class="mb-1 w-full font-serif text-lg italic">
           Crèche - Garderie - Maternelle
         </div>
