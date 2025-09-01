@@ -174,7 +174,6 @@ export const generateReceipt = async (req, res) => {
     <!-- Footer -->
     <div class="flex text-[8px] mt-3 border-t border-gray-300 pt-2">
       <div class="w-1/2 mr-2">
-        <div>SA AU CAPITAL DE 37 813 000 000 F CFA - RCCM B 157 - B.P. 359</div>
         <div>Avédji non loin de l'école la Jourdain - Tél: +228 90 73 50 50 / <br> 99 98 18 82</div>
         <div>Email: contact@touptitogo.com</div>
         <div>Web: www.touptitogo.com</div>
@@ -259,7 +258,6 @@ export const generateReceipt = async (req, res) => {
     <!-- Footer -->
     <div class="flex text-[8px] mt-3 border-t border-gray-300 pt-2">
       <div class="w-1/2 mr-2">
-        <div>SA AU CAPITAL DE 37 813 000 000 F CFA - RCCM B 157 - B.P. 359</div>
         <div>Avédji non loin de l'école la Jourdain - Tél: +228 90 73 50 50 / <br> 99 98 18 82</div>
         <div>Email: contact@touptitogo.com</div>
         <div>Web: www.touptitogo.com</div>
