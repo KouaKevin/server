@@ -174,13 +174,13 @@ export const generateReceipt = async (req, res) => {
     <!-- Footer -->
     <div class="flex text-[8px] mt-3 border-t border-gray-300 pt-2">
       <div class="w-1/2 mr-2">
-        <div>Avédji non loin de l'école la Jourdain - Tél: +228 90 73 50 50 / <br> 99 98 18 82</div>
+        <div>Avédji non loin de l'école la Jourdain - Tél: +228 90 73 50 50 / <br> 99 99 81 82</div>
         <div>Email: contact@touptitogo.com</div>
         <div>Web: www.touptitogo.com</div>
       </div>
       <div class="w-1/2 text-[8px]">
         <p class="font-bold">Pour toute réclamation vous pouvez:</p>
-        <div>Appeler le +228 90 73 50 50 / 99 98 18 82</div>
+        <div>Appeler le +228 90 73 50 50 / 99 99 81 82</div>
         <div>Remplir le formulaire dédié aux réclamations sur notre site Web.</div>
         <div>Votre réclamation sera traitée dans les meilleurs délais et au plus tard dans les 30 jours.</div>
       </div>
@@ -258,13 +258,13 @@ export const generateReceipt = async (req, res) => {
     <!-- Footer -->
     <div class="flex text-[8px] mt-3 border-t border-gray-300 pt-2">
       <div class="w-1/2 mr-2">
-        <div>Avédji non loin de l'école la Jourdain - Tél: +228 90 73 50 50 / <br> 99 98 18 82</div>
+        <div>Avédji non loin de l'école la Jourdain - Tél: +228 90 73 50 50 / <br> 99 99 81 82</div>
         <div>Email: contact@touptitogo.com</div>
         <div>Web: www.touptitogo.com</div>
       </div>
       <div class="w-1/2 text-[8px]">
         <p class="font-bold">Pour toute réclamation vous pouvez:</p>
-        <div>Appeler le +228 90 73 50 50 / 99 98 18 82</div>
+        <div>Appeler le +228 90 73 50 50 / 99 99 81 82</div>
         <div>Remplir le formulaire dédié aux réclamations sur notre site Web.</div>
         <div>Votre réclamation sera traitée dans les meilleurs délais et au plus tard dans les 30 jours.</div>
       </div>
