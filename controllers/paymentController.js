@@ -185,7 +185,7 @@ export const generateReceipt = async (req, res) => {
         <div>Votre réclamation sera traitée dans les meilleurs délais et au plus tard dans les 30 jours.</div>
       </div>
     </div>
-    <center><p class="pt-1 text-[11px] font-serif italic">Toupt'i grandir epanoui</p></center>
+    <center><p class="pt-1 text-[11px] font-serif italic">Toupt'i grandir épanoui !</p></center>
   </div>
 
   <!-- Ligne séparatrice -->
@@ -269,7 +269,7 @@ export const generateReceipt = async (req, res) => {
         <div>Votre réclamation sera traitée dans les meilleurs délais et au plus tard dans les 30 jours.</div>
       </div>
     </div>
-    <center><p class="pt-1 text-[11px] font-serif italic">Toupt'i grandir epanoui</p></center>
+    <center><p class="pt-1 text-[11px] font-serif italic">Toupt'i grandir épanoui !</p></center>
   </div>
 
 </body>
