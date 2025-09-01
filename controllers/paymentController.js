@@ -134,7 +134,7 @@ export const generateReceipt = async (req, res) => {
         <div class="capitalize" ><span class="font-bold text-xs ">Nom: </span> {{child.firstName}} {{child.lastName}}</div>
         <div class="capitalize" ><span class="font-bold text-xs">Classe: </span> {{child.class}} </div>
         <div class="capitalize" ><span class="font-bold text-xs">Type de paiement: </span> {{type}} </div>
-        <div class="capitalize" ><span class="font-bold text-xs">Pour la periode de: </span> {{period}}</div>
+        <div class="capitalize" ><span class="font-bold text-xs"> Pour la tranche/periode de: </span> {{period}}</div>
       </div>
       <div class="text-[11px] flex-1 w-1/2 pl-2 border-l border-gray-500">
         <center class="font-bold text-xs">CLIENT</center>
@@ -157,7 +157,7 @@ export const generateReceipt = async (req, res) => {
     <div class="flex">
         <!-- Confirmation -->
       <div class="text-[11px] pr-2 w-2/3">
-        Nous reconnaissons avoir reçu la somme de <span class="font-bold"> {{amount}} FCFA </span> au titre du règlement des frais de scolarité de  {{child.firstName}} {{child.lastName}} pour le mois de {{period}}.
+        Nous reconnaissons avoir reçu la somme de <span class="font-bold"> {{amount}} FCFA </span> au titre du règlement des frais de scolarité de  {{child.firstName}} {{child.lastName}} pour la tranche/periode de: {{period}}.
       </div>
 
       <!-- Signatures -->
@@ -219,7 +219,7 @@ export const generateReceipt = async (req, res) => {
         <div class="capitalize" ><span class="font-bold text-xs ">Nom: </span> {{child.firstName}} {{child.lastName}}</div>
         <div class="capitalize" ><span class="font-bold text-xs">Classe: </span> {{child.class}} </div>
         <div class="capitalize" ><span class="font-bold text-xs">Type de paiement: </span> {{type}} </div>
-        <div class="capitalize" ><span class="font-bold text-xs">Pour la periode de: </span> {{period}}</div>
+        <div class="capitalize" ><span class="font-bold text-xs">Pour la tranche/periode de: </span> {{period}}</div>
       </div>
       <div class="text-[11px] flex-1 w-1/2 pl-2 border-l border-gray-500">
         <center class="font-bold text-xs">CLIENT</center>
@@ -242,7 +242,7 @@ export const generateReceipt = async (req, res) => {
     <div class="flex">
       <!-- Confirmation -->
       <div class="text-[11px] pr-2 w-2/3">
-        Nous reconnaissons avoir reçu la somme de <span class="font-bold"> {{amount}} FCFA </span> au titre du règlement des frais de scolarité de  {{child.firstName}} {{child.lastName}} pour le mois de {{period}}.
+        Nous reconnaissons avoir reçu la somme de <span class="font-bold"> {{amount}} FCFA </span> au titre du règlement des frais de scolarité de  {{child.firstName}} {{child.lastName}} pour la tranche/periode de: {{period}}.
       </div>
 
       <!-- Signatures -->
